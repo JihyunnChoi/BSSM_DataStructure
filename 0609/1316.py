@@ -47,3 +47,10 @@ if start not in graph or start == 'H':
     print("올바른 위치를 입력하세요.")
 else:
     bfs(start)
+
+
+
+
+
+
+
